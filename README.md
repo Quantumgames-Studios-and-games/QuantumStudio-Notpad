@@ -1,5 +1,5 @@
 ### BetterPhaser
-
+![BetterPhaser](https://github.com/Quantumgames-Studios-and-games/BetterPhaser/blob/master/phaser.png "BetterPhaser Logo")
 IN DEVELOPMENT!!!
 BetterPhaser is an online ide for phaser. it helps you make games with Phaser, with almost no coding!
 ### VERSION
