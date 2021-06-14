@@ -1,0 +1,58 @@
+.SceneEditor {
+    padding: 5px;
+}
+
+.SceneEditor .SceneEditorContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.SceneEditor canvas {
+    border-radius: 3px;
+}
+
+.PropertyLockIcon:hover {
+    cursor: pointer;
+}
+
+#InspectorView .PrefabLink {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    background: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    border-radius: 3px;
+}
+
+#InspectorView .PrefabLink:nth-child(1) {
+    margin-top: 0px;
+}
+
+.lightBlue #InspectorView .PrefabLink {
+    background: #b2c3dd66;
+}
+
+/* light */
+
+.light .SceneEditor .SceneEditorContainer {
+    background: #8e8e8e;
+}
+
+/* lightBlue*/
+
+.lightBlue .SceneEditor .SceneEditorContainer {
+    background: #97AAC2;
+}
+
+/* dark */
+
+.dark .SceneEditor .SceneEditorContainer {
+    background: #3f3f3f;
+    border-radius: 3px;
+}
+
+/* dark plus */
+
+.dark .SceneEditor {
+    padding: 0px !important;
+}
