@@ -1,4 +1,0 @@
-#don't know what this is for lol
-*.tsbuildinfo
-node_modules/
-plugins/*/_out/**

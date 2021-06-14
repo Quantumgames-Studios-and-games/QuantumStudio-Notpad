@@ -1,4 +1,3 @@
-#phaser update script
 cd ..
 
 export PHASER=~/Documents/Phaser/phaser
@@ -28,5 +27,6 @@ rm -f source/templates/include/types/*
 cp $PHASER_DIST/phaser.js source/templates/include/lib/
 cp $PHASER_TYPES/phaser.d.ts  source/templates/include/types/
 cp $PHASER_TYPES/matter.d.ts  source/templates/include/types/
+
 
 
