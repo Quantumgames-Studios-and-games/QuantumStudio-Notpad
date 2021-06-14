@@ -1,0 +1,16 @@
+# This file contains a couple of options you can set to Phaser Editor 2D.
+# The options are the same supported by the PhaserEditor2D.exe program.
+# Write PhaserEditor2D.exe -help to see all the options.
+# In this file, each option start in a line, and its value in the next line.
+
+# For example, you can change the default HTTP port to 1968.
+# Just uncomment (removes the # character) the next lines:
+#
+# -port
+# 1968
+
+# If you have Google Chrome installed, you can open it automatically,
+# in the app mode (similar to a desktop application):
+#
+# -browser-command
+# "/usr/bin/google-chrome" "--app=$URL"
