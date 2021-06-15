@@ -1,6 +1,4 @@
-  <?php
-if ($_GET['run']) {
-  # This code will run if ?run=true is set.
-  exec("run.sh");
-}
+<h3>Executing run.sh</h3>
+<?
+exec('run.sh');
 ?>
